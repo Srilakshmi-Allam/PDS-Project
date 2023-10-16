@@ -1,2 +1,1 @@
-# PDS
-black-friday-sales-prediction
+# black-friday
